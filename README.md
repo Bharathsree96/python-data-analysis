@@ -1,4 +1,4 @@
-# Employee Project Cost & Performance Analysis 🐍
+# python-data-analysis 🐍
 
 ## What is this project?
 A Python-based data analysis project that cleans, merges, and enriches 
